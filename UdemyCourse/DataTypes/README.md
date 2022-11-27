@@ -13,6 +13,7 @@ We have this concept of primitive data types. These are
     <summary>Heres a more detailed look at these types</summary>
 
     | Type | Size | Range | Default Value |
+    | ---------------- | ------------------------------------------- | -------------- | --------------------------- |
     | byte | 1 | -128 to 127 | 0 |
     | short | 2 | -32768 to 32767 | 0 |
     | int | 4 | -214748638 to -2147483647 | 0 |
