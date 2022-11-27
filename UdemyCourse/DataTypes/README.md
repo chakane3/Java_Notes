@@ -21,6 +21,7 @@ We have this concept of primitive data types. These are
 
 <details>
     <summary>Heres a more detailed look at these types</summary>
+    
 | Type | Size | Range | Default Value |
 | ---------------- | ------------------------------------------- | -------------- | --------------------------- |
 | byte | 1 | -128 to 127 | 0 |
