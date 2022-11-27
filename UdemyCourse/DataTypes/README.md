@@ -1,6 +1,6 @@
 # Data Types
 
-We have this concept of primitive data types. These are 
+We have this concept of primitive data types, these are built into the java language. These are 
 <ul>
     <li>INTegral: byte, short, int, long</li>
     <li>Floating: float, double</li>
@@ -23,3 +23,17 @@ We have this concept of primitive data types. These are
 | boolean | - | true(0)/false(1) | false |
     
 </details>
+
+Variables will always have some kind of type. One byte is a unit of space. There are 8 bits in a byte. For evert data type there is a class for that already built in. For example:
+
+``` java
+int x;
+Integer y;
+```
+
+## Variables
+These are just names we give to our data. All variables must have some kind of data type. When we declare a variable some memory is being allocated for the data associated with it. 
+
+## Literals
+
+
