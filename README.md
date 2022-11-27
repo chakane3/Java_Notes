@@ -1,4 +1,4 @@
-# ReactNotes
+# Java_Notes
 
 Here to write notes on using Java.
 
