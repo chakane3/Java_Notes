@@ -35,5 +35,24 @@ Integer y;
 These are just names we give to our data. All variables must have some kind of data type. When we declare a variable some memory is being allocated for the data associated with it. 
 
 ## Literals
+Think of theese as inferred types. For example
+
+``` java
+// here 3.14 is going to be treated as a double
+area = 3.14d*radius*radius;
+```
+
+This idea happens with the other data types. This could be:
+<ul>
+    <li>3l</li>
+    <li>2.4d</li>
+    <li>2.0045f</li>
+</ul>
+
+Integer Literals and such can be represented in different number systems. Recall:
 
 
+|uses 10 digits| Decimal | 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 |
+|uses 2 digits| Binary | 0, 1 |
+|uses 8 digits| Octal | 0, 1, 2, 3, 4, 5, 6, 7 |
+|uses 16 digits| Hexadecimal | 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F |

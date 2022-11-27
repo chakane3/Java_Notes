@@ -19,6 +19,8 @@ class checkType {
         char c = 'v';
         System.out.println(c);
 
+        System.out.println(23l);
+
 
     }
 }
